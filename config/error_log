@@ -1,0 +1,16 @@
+[26-Sep-2023 03:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/accmo3yz1ekw/public_html/demo.idotcommers.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/accmo3yz1ekw/public_html/demo.idotcommers.com/config/cache.php on line 21
+[12-Dec-2023 23:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/ttsplco/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/ttsplco/public_html/config/cache.php on line 21
+[16-Jan-2024 23:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/ttsplco/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/ttsplco/public_html/config/cache.php on line 21
+[31-Jan-2024 23:27:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/ttsplco/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/ttsplco/public_html/config/cache.php on line 21
