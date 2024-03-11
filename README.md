@@ -10,9 +10,9 @@ The website https://ttspl.co.in is for Total Transport Systems Pvt Limited (TTSP
 ## Some of the key products offered by TTSPL include:
 
 - Fibre Optic Sensing System for precision monitoring
-- **Level Transmitters / Sensors for accurate control systems**
-- **Flow Meters for confident flow monitoring**
-- **Pressure Transmitters for monitoring and controlling process pressure effectively**
+- Level Transmitters / Sensors for accurate control systems
+- Flow Meters for confident flow monitoring
+- Pressure Transmitters for monitoring and controlling process pressure effectively
 
 ## Laravel Sponsors
 
