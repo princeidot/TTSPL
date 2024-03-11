@@ -8,16 +8,16 @@ The website https://ttspl.co.in is for Total Transport Systems Pvt Limited (TTSP
 
 
 ## Some of the key products offered by TTSPL include:
-<a href="http://example.com/" target="_blank">example</a>
-- [Fibre Optic Sensing System for precision monitoring](https://ttspl.co.in) {:target="_blank"}
-- [Fibre Optic Sensing System for precision monitoring](https://ttspl.co.in/fiber-optic-sensing-systems){:target="_blank"}
-- Level Transmitters / Sensors for accurate control systems
-- Flow Meters for confident flow monitoring
-- Pressure Transmitters for monitoring and controlling process pressure effectively
 
-## Laravel Sponsors
+- [Fibre Optic Sensing System for precision monitoring](https://ttspl.co.in)
+- [Level Transmitters / Sensors](https://ttspl.co.in/level-transmitters-sensors) for accurate control systems
+- [Flow Meters](https://ttspl.co.in/flow-meters) for confident flow monitoring
+- [Pressure Transmitters](https://ttspl.co.in/pressure-transmitters) for monitoring and controlling process pressure effectively
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Video
+
+[video2.webm](https://github.com/princeidot/TTSPL/assets/131530732/152e6cfe-2a58-4fc6-bb96-d364d96ba1de)
+
 
 ### Premium Partners
 To learn more about Fiber Optic Sensing Systems for precision monitoring, you can visit the following URLs:
