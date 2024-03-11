@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://ttspl.co.in/asset/newimg/logo/ttspl-logo-r.webp" width="400" style="max-width: 14%;"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://ttspl.co.in/asset/newimg/logo/ttspl-logo-r.webp" width="100"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
